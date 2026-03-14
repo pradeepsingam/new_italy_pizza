@@ -17,7 +17,8 @@ const Footer1 = () => {
                                     <div className="item1"><i className="bi bi-geo-alt-fill"></i></div>
                                     <div className="item2">
                                         <h6>address</h6>
-                                        <p>093 Victoria Park Ave, Scarborough, ON M4B 2K2</p>
+                                        <p>093 Victoria Park Ave, Scarborough,</p>
+                                        <p>ON M4B 2K2</p>
                                     </div>
                                 </div>
                             </div>

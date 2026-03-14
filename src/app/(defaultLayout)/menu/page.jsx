@@ -22,8 +22,6 @@ const page = () => {
         Title="Food Menu"
       ></BreadCumb>
       <FoodItem4></FoodItem4>
-      <Timer2></Timer2>
-      <Gallery1></Gallery1>
     </div>
   );
 };

@@ -469,24 +469,24 @@ const Offer2 = ()=>{
     }["Offer2.useEffect"], []);
     const offerItems = [
         {
-            img: '/assets/img/offer/offerThumb1_2.png',
-            bgimg: '/assets/img/bg/offerBG2_1.jpg',
+            img: '/assets/img/offer/below_hero1.png',
+            bgimg: '/assets/img/bg/offerBGred.jpg',
             title1: 'start price $25',
             title2: 'TODAY SPACIAL FOOD',
             content: 'limits Time Offer',
             addClass: 'theme-btn style5'
         },
         {
-            img: '/assets/img/offer/offerThumb1_3.png',
-            bgimg: '/assets/img/bg/offerBG2_2.jpg',
+            img: '/assets/img/offer/below_hero2.png',
+            bgimg: '/assets/img/bg/offerBGwhite.png',
             title1: 'start price $28',
             title2: 'special chicken roll',
             content: 'limits Time Offer',
             addClass: 'theme-btn style4'
         },
         {
-            img: '/assets/img/offer/offerThumb1_1.png',
-            bgimg: '/assets/img/bg/offerBG2_3.jpg',
+            img: '/assets/img/offer/below_hero3.png',
+            bgimg: '/assets/img/bg/offerBGgreen.png',
             title1: 'start price $55',
             title2: 'SPICY FRIED CHICKEN',
             content: 'limits Time Offer',
@@ -517,14 +517,14 @@ const Offer2 = ()=>{
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Offer/Offer2.jsx",
                                                 lineNumber: 29,
-                                                columnNumber: 33
+                                                columnNumber: 41
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                 children: item.title2
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Offer/Offer2.jsx",
                                                 lineNumber: 30,
-                                                columnNumber: 33
+                                                columnNumber: 41
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 className: "text-white",
@@ -532,7 +532,7 @@ const Offer2 = ()=>{
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Offer/Offer2.jsx",
                                                 lineNumber: 31,
-                                                columnNumber: 33
+                                                columnNumber: 41
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                                 href: "/menu",
@@ -544,19 +544,19 @@ const Offer2 = ()=>{
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/Offer/Offer2.jsx",
                                                         lineNumber: 33,
-                                                        columnNumber: 47
+                                                        columnNumber: 55
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/Components/Offer/Offer2.jsx",
                                                 lineNumber: 32,
-                                                columnNumber: 33
+                                                columnNumber: 41
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/Offer/Offer2.jsx",
                                         lineNumber: 28,
-                                        columnNumber: 29
+                                        columnNumber: 37
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "offer-thumb",
@@ -570,7 +570,7 @@ const Offer2 = ()=>{
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Offer/Offer2.jsx",
                                                 lineNumber: 37,
-                                                columnNumber: 29
+                                                columnNumber: 41
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                 className: "shape float-bob-x",
@@ -582,49 +582,49 @@ const Offer2 = ()=>{
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/Offer/Offer2.jsx",
                                                     lineNumber: 38,
-                                                    columnNumber: 68
+                                                    columnNumber: 76
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/Offer/Offer2.jsx",
                                                 lineNumber: 38,
-                                                columnNumber: 33
+                                                columnNumber: 41
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/Offer/Offer2.jsx",
                                         lineNumber: 36,
-                                        columnNumber: 29
+                                        columnNumber: 37
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/Components/Offer/Offer2.jsx",
                                 lineNumber: 26,
-                                columnNumber: 25
+                                columnNumber: 33
                             }, this)
                         }, i, false, {
                             fileName: "[project]/src/app/Components/Offer/Offer2.jsx",
                             lineNumber: 25,
-                            columnNumber: 21
+                            columnNumber: 29
                         }, this))
                 }, void 0, false, {
                     fileName: "[project]/src/app/Components/Offer/Offer2.jsx",
                     lineNumber: 23,
-                    columnNumber: 17
+                    columnNumber: 21
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/Offer/Offer2.jsx",
                 lineNumber: 22,
-                columnNumber: 13
+                columnNumber: 17
             }, this)
         }, void 0, false, {
             fileName: "[project]/src/app/Components/Offer/Offer2.jsx",
             lineNumber: 21,
-            columnNumber: 9
+            columnNumber: 13
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/Components/Offer/Offer2.jsx",
         lineNumber: 20,
-        columnNumber: 1
+        columnNumber: 9
     }, this);
 };
 _s(Offer2, "OD7bBpZva5O2jO+Puf00hKivP7c=");
@@ -773,12 +773,12 @@ const About2 = ()=>{
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/About/About2.jsx",
                             lineNumber: 23,
-                            columnNumber: 56
+                            columnNumber: 60
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/About/About2.jsx",
                         lineNumber: 23,
-                        columnNumber: 13
+                        columnNumber: 17
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "container",
@@ -791,53 +791,25 @@ const About2 = ()=>{
                                         className: "col-lg-6 d-flex align-items-center justify-content-center justify-content-xl-start",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "about-thumb mb-5 mb-lg-0",
-                                            children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                                    src: "/assets/img/about/aboutThumb2_1.png",
-                                                    alt: "img",
-                                                    width: 875,
-                                                    height: 536
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                    lineNumber: 29,
-                                                    columnNumber: 29
-                                                }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "video-wrap",
-                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                        onClick: handelClick,
-                                                        className: "play-btn popup-video",
-                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                                            className: "cir36",
-                                                            src: "/assets/img/shape/player.svg",
-                                                            alt: "img",
-                                                            width: 152,
-                                                            height: 152
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                            lineNumber: 33,
-                                                            columnNumber: 74
-                                                        }, this)
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                        lineNumber: 32,
-                                                        columnNumber: 37
-                                                    }, this)
-                                                }, void 0, false, {
-                                                    fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                    lineNumber: 31,
-                                                    columnNumber: 33
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                                                src: "/assets/img/shape/about_shape_2026.png",
+                                                alt: "img",
+                                                width: 875,
+                                                height: 536
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/app/Components/About/About2.jsx",
+                                                lineNumber: 29,
+                                                columnNumber: 37
+                                            }, this)
+                                        }, void 0, false, {
                                             fileName: "[project]/src/app/Components/About/About2.jsx",
                                             lineNumber: 28,
-                                            columnNumber: 29
+                                            columnNumber: 33
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/Components/About/About2.jsx",
                                         lineNumber: 27,
-                                        columnNumber: 25
+                                        columnNumber: 29
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "col-lg-6",
@@ -857,8 +829,8 @@ const About2 = ()=>{
                                                                 height: 20
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                                lineNumber: 41,
-                                                                columnNumber: 33
+                                                                lineNumber: 38,
+                                                                columnNumber: 41
                                                             }, this),
                                                             "About US",
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -869,38 +841,38 @@ const About2 = ()=>{
                                                                 height: 20
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                                lineNumber: 42,
-                                                                columnNumber: 45
+                                                                lineNumber: 39,
+                                                                columnNumber: 49
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                        lineNumber: 40,
-                                                        columnNumber: 33
+                                                        lineNumber: 37,
+                                                        columnNumber: 37
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                                         className: "title text-start wow fadeInUp",
                                                         "data-wow-delay": "0.7s",
-                                                        children: "Variety of flavours from american cuisine"
+                                                        children: "A Bold Fusion of Global Flavors"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                        lineNumber: 44,
-                                                        columnNumber: 33
+                                                        lineNumber: 41,
+                                                        columnNumber: 37
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                         className: "text text-start wow fadeInUp",
                                                         "data-wow-delay": "0.8s",
-                                                        children: "Every dish is not just prepared it is a crafted with a savor the a utmost precision and a deep understanding sdf of flavor harmony. The experienced hands of our chefs"
+                                                        children: "At New Italy Pizza, we don’t just serve food; we bridge cultures. Located in the heart of Scarborough, we specialize in a unique culinary harmony where traditional Italian stone-baked techniques meet the bold, aromatic spices of Asian and Indian fusion. Whether you are craving a classic 4-Cheese Pizza or our signature Tandoori Chicken Pizza, every dish is a celebration of flavor."
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                        lineNumber: 47,
-                                                        columnNumber: 33
+                                                        lineNumber: 44,
+                                                        columnNumber: 37
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                lineNumber: 39,
-                                                columnNumber: 29
+                                                lineNumber: 36,
+                                                columnNumber: 33
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                 className: "fancy-box-wrapper",
@@ -917,13 +889,13 @@ const About2 = ()=>{
                                                                     height: 36
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                                    lineNumber: 53,
-                                                                    columnNumber: 59
+                                                                    lineNumber: 50,
+                                                                    columnNumber: 63
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                                lineNumber: 53,
-                                                                columnNumber: 37
+                                                                lineNumber: 50,
+                                                                columnNumber: 41
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                 className: "item",
@@ -932,27 +904,27 @@ const About2 = ()=>{
                                                                         children: "super quality food"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                                        lineNumber: 55,
-                                                                        columnNumber: 41
+                                                                        lineNumber: 52,
+                                                                        columnNumber: 45
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                        children: "Served our Testy Food & good food by friendly"
+                                                                        children: "We prioritize your dietary needs without compromising on flavor. Our menu is 100% Halal, featuring premium beef pepperoni, succulent grilled chicken, and fresh vegetables prepared daily. Taste the difference that quality makes."
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                                        lineNumber: 56,
-                                                                        columnNumber: 41
+                                                                        lineNumber: 53,
+                                                                        columnNumber: 45
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                                lineNumber: 54,
-                                                                columnNumber: 37
+                                                                lineNumber: 51,
+                                                                columnNumber: 41
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                        lineNumber: 52,
-                                                        columnNumber: 33
+                                                        lineNumber: 49,
+                                                        columnNumber: 37
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                         className: "fancy-box",
@@ -966,13 +938,13 @@ const About2 = ()=>{
                                                                     height: 36
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                                    lineNumber: 60,
-                                                                    columnNumber: 59
+                                                                    lineNumber: 57,
+                                                                    columnNumber: 63
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                                lineNumber: 60,
-                                                                columnNumber: 37
+                                                                lineNumber: 57,
+                                                                columnNumber: 41
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                                 className: "item",
@@ -981,61 +953,61 @@ const About2 = ()=>{
                                                                         children: "Qualified Chef"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                                        lineNumber: 62,
-                                                                        columnNumber: 41
+                                                                        lineNumber: 59,
+                                                                        columnNumber: 45
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                        children: "Served our Testy Food & good food by friendly"
+                                                                        children: "Our experienced chefs don’t just cook; they craft. By combining years of experience in both Western and Eastern cuisines, they ensure every plate is balanced, savory, and served with the warmth of a family-run kitchen."
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                                        lineNumber: 63,
-                                                                        columnNumber: 41
+                                                                        lineNumber: 60,
+                                                                        columnNumber: 45
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                                lineNumber: 61,
-                                                                columnNumber: 37
+                                                                lineNumber: 58,
+                                                                columnNumber: 41
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                        lineNumber: 59,
-                                                        columnNumber: 33
+                                                        lineNumber: 56,
+                                                        columnNumber: 37
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/Components/About/About2.jsx",
-                                                lineNumber: 51,
-                                                columnNumber: 29
+                                                lineNumber: 48,
+                                                columnNumber: 33
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/About/About2.jsx",
-                                        lineNumber: 38,
-                                        columnNumber: 25
+                                        lineNumber: 35,
+                                        columnNumber: 29
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/Components/About/About2.jsx",
                                 lineNumber: 26,
-                                columnNumber: 21
+                                columnNumber: 25
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/app/Components/About/About2.jsx",
                             lineNumber: 25,
-                            columnNumber: 17
+                            columnNumber: 21
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/About/About2.jsx",
                         lineNumber: 24,
-                        columnNumber: 13
+                        columnNumber: 17
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/Components/About/About2.jsx",
                 lineNumber: 22,
-                columnNumber: 9
+                columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "marquee-wrapper style-1 text-slider section-padding pt-0",
@@ -1050,232 +1022,232 @@ const About2 = ()=>{
                                     className: "text-slider"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
-                                    lineNumber: 76,
-                                    columnNumber: 25
+                                    lineNumber: 73,
+                                    columnNumber: 29
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider text-style",
-                                    children: "chicken pizza"
+                                    children: "Pizza"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/app/Components/About/About2.jsx",
+                                    lineNumber: 73,
+                                    columnNumber: 66
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                    className: "text-slider"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/app/Components/About/About2.jsx",
+                                    lineNumber: 74,
+                                    columnNumber: 29
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                    className: "text-slider text-style",
+                                    children: "Naan"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/app/Components/About/About2.jsx",
+                                    lineNumber: 74,
+                                    columnNumber: 66
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                    className: "text-slider"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/app/Components/About/About2.jsx",
+                                    lineNumber: 75,
+                                    columnNumber: 29
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                    className: "text-slider text-style",
+                                    children: "Shawarma"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/app/Components/About/About2.jsx",
+                                    lineNumber: 75,
+                                    columnNumber: 66
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                    className: "text-slider"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 76,
-                                    columnNumber: 62
+                                    columnNumber: 29
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                    className: "text-slider text-style",
+                                    children: "Biryani"
+                                }, void 0, false, {
+                                    fileName: "[project]/src/app/Components/About/About2.jsx",
+                                    lineNumber: 76,
+                                    columnNumber: 66
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 77,
-                                    columnNumber: 25
+                                    columnNumber: 29
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider text-style",
-                                    children: "GRILLED CHICKEN"
+                                    children: "Wings"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 77,
-                                    columnNumber: 62
+                                    columnNumber: 66
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 78,
-                                    columnNumber: 25
+                                    columnNumber: 29
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider text-style",
-                                    children: "BURGER"
+                                    children: "French Fries"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 78,
-                                    columnNumber: 62
+                                    columnNumber: 66
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 79,
-                                    columnNumber: 25
+                                    columnNumber: 29
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider text-style",
-                                    children: "CHICKEN PIZZA"
+                                    children: " Wedge"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 79,
-                                    columnNumber: 62
+                                    columnNumber: 66
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 80,
-                                    columnNumber: 25
+                                    columnNumber: 29
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider text-style",
-                                    children: "FRESH PASTA"
+                                    children: "Pizza"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 80,
-                                    columnNumber: 62
+                                    columnNumber: 66
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 81,
-                                    columnNumber: 25
+                                    columnNumber: 29
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider text-style",
-                                    children: "ITALIANO FRENCH FRY"
+                                    children: "Naan"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 81,
-                                    columnNumber: 62
+                                    columnNumber: 66
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 82,
-                                    columnNumber: 25
+                                    columnNumber: 29
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider text-style",
-                                    children: "CHICKEN FRY"
+                                    children: "Shawarma"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 82,
-                                    columnNumber: 62
+                                    columnNumber: 66
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 83,
-                                    columnNumber: 25
+                                    columnNumber: 29
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider text-style",
-                                    children: "chicken pizza"
+                                    children: "Biryani"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 83,
-                                    columnNumber: 62
+                                    columnNumber: 66
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 84,
-                                    columnNumber: 25
+                                    columnNumber: 29
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider text-style",
-                                    children: "GRILLED CHICKEN"
+                                    children: "Wings"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 84,
-                                    columnNumber: 62
+                                    columnNumber: 66
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 85,
-                                    columnNumber: 25
+                                    columnNumber: 29
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider text-style",
-                                    children: "BURGER"
+                                    children: "French Fries"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 85,
-                                    columnNumber: 62
+                                    columnNumber: 66
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 86,
-                                    columnNumber: 25
+                                    columnNumber: 29
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-slider text-style",
-                                    children: "CHICKEN PIZZA"
+                                    children: " Wedge"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/About/About2.jsx",
                                     lineNumber: 86,
-                                    columnNumber: 62
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "text-slider"
-                                }, void 0, false, {
-                                    fileName: "[project]/src/app/Components/About/About2.jsx",
-                                    lineNumber: 87,
-                                    columnNumber: 25
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "text-slider text-style",
-                                    children: "FRESH PASTA"
-                                }, void 0, false, {
-                                    fileName: "[project]/src/app/Components/About/About2.jsx",
-                                    lineNumber: 87,
-                                    columnNumber: 62
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "text-slider"
-                                }, void 0, false, {
-                                    fileName: "[project]/src/app/Components/About/About2.jsx",
-                                    lineNumber: 88,
-                                    columnNumber: 25
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "text-slider text-style",
-                                    children: "ITALIANO FRENCH FRY"
-                                }, void 0, false, {
-                                    fileName: "[project]/src/app/Components/About/About2.jsx",
-                                    lineNumber: 88,
-                                    columnNumber: 62
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "text-slider"
-                                }, void 0, false, {
-                                    fileName: "[project]/src/app/Components/About/About2.jsx",
-                                    lineNumber: 89,
-                                    columnNumber: 25
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "text-slider text-style",
-                                    children: "CHICKEN FRY"
-                                }, void 0, false, {
-                                    fileName: "[project]/src/app/Components/About/About2.jsx",
-                                    lineNumber: 89,
-                                    columnNumber: 62
+                                    columnNumber: 66
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/Components/About/About2.jsx",
-                            lineNumber: 75,
-                            columnNumber: 21
+                            lineNumber: 72,
+                            columnNumber: 25
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/Components/About/About2.jsx",
-                        lineNumber: 74,
-                        columnNumber: 17
+                        lineNumber: 71,
+                        columnNumber: 21
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/app/Components/About/About2.jsx",
-                    lineNumber: 73,
-                    columnNumber: 13
+                    lineNumber: 70,
+                    columnNumber: 17
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/About/About2.jsx",
-                lineNumber: 72,
-                columnNumber: 9
+                lineNumber: 69,
+                columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$Components$2f$VideoModal$2f$VideoModal$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                 isTrue: toggle,
@@ -1283,14 +1255,14 @@ const About2 = ()=>{
                 handelClose: handelClose
             }, void 0, false, {
                 fileName: "[project]/src/app/Components/About/About2.jsx",
-                lineNumber: 94,
-                columnNumber: 9
+                lineNumber: 91,
+                columnNumber: 13
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/Components/About/About2.jsx",
         lineNumber: 21,
-        columnNumber: 1
+        columnNumber: 9
     }, this);
 };
 _s(About2, "TslojX/XltiEJDXsvtDXaOOIFz0=");
