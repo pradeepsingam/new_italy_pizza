@@ -84,13 +84,17 @@ var __TURBOPACK__imported__module__$5b$next$5d2f$internal$2f$font$2f$google$2f$r
 const metadata = {
     title: {
         absolute: '',
-        default: 'Fresheat - Food & Restaurant NextJS Template',
-        template: '%s | Fresheat - Food & Restaurant NextJS Template'
+        default: 'New Italy Pizza | Halal Pizza, Asian Fusion & Bakery in Scarborough',
+        template: '%s | New Italy Pizza'
     },
-    description: 'Fresheat - Food & Restaurant NextJS Template',
+    description: 'Experience a unique blend of flavors at New Italy Pizza. From authentic Halal stone-baked pizzas to Butter Chicken and Tandoori fusion. Visit us at 1093 Victoria Park Ave!',
     openGraph: {
-        title: 'Fresheat - Food & Restaurant NextJS Template',
-        description: 'Fresheat - Food & Restaurant NextJS Template'
+        title: 'New Italy Pizza – Where Italy Meets Asia',
+        description: 'Craving Pizza, Shawarma, or Butter Chicken? We serve 100% Halal fusion dishes and fresh bakery treats in the heart of Scarborough.',
+        type: 'website'
+    },
+    icons: {
+        icon: '/icon.png'
     }
 };
 function RootLayout({ children }) {
@@ -98,28 +102,17 @@ function RootLayout({ children }) {
         lang: "en",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("head", {
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
-                        name: "author",
-                        content: "Themeservices"
-                    }, void 0, false, {
-                        fileName: "[project]/src/app/layout.js",
-                        lineNumber: 35,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
-                        rel: "icon",
-                        href: "/favicon.ico",
-                        sizes: "any"
-                    }, void 0, false, {
-                        fileName: "[project]/src/app/layout.js",
-                        lineNumber: 36,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
+                    name: "author",
+                    content: "Themeservices"
+                }, void 0, false, {
+                    fileName: "[project]/src/app/layout.js",
+                    lineNumber: 39,
+                    columnNumber: 9
+                }, this)
+            }, void 0, false, {
                 fileName: "[project]/src/app/layout.js",
-                lineNumber: 34,
+                lineNumber: 38,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("body", {
@@ -127,13 +120,13 @@ function RootLayout({ children }) {
                 children: children
             }, void 0, false, {
                 fileName: "[project]/src/app/layout.js",
-                lineNumber: 38,
+                lineNumber: 41,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/layout.js",
-        lineNumber: 33,
+        lineNumber: 37,
         columnNumber: 5
     }, this);
 }

@@ -3,6 +3,18 @@
     "[project]/src/app/(defaultLayout)/page": [
       "static/media/O4ZRFGj5hxF0EhjimlIksgg4lWmc-s.p.540d7db0.woff2",
       "static/media/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ-s.p.fbce0e65.woff2"
+    ],
+    "[project]/src/app/(defaultLayout)/menu/page": [
+      "static/media/O4ZRFGj5hxF0EhjimlIksgg4lWmc-s.p.540d7db0.woff2",
+      "static/media/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ-s.p.fbce0e65.woff2"
+    ],
+    "[project]/src/app/(defaultLayout)/contact/page": [
+      "static/media/O4ZRFGj5hxF0EhjimlIksgg4lWmc-s.p.540d7db0.woff2",
+      "static/media/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ-s.p.fbce0e65.woff2"
+    ],
+    "[project]/src/app/_not-found/page": [
+      "static/media/O4ZRFGj5hxF0EhjimlIksgg4lWmc-s.p.540d7db0.woff2",
+      "static/media/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ-s.p.fbce0e65.woff2"
     ]
   },
   "appUsingSizeAdjust": true,

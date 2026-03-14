@@ -18,13 +18,17 @@ const roboto = Roboto({
 export const metadata = {
   title: {
     absolute: '',
-    default: 'Fresheat - Food & Restaurant NextJS Template',
-    template: '%s | Fresheat - Food & Restaurant NextJS Template',
+    default: 'New Italy Pizza | Halal Pizza, Asian Fusion & Bakery in Scarborough',
+    template: '%s | New Italy Pizza',
   },
-  description: 'Fresheat - Food & Restaurant NextJS Template',
+  description: 'Experience a unique blend of flavors at New Italy Pizza. From authentic Halal stone-baked pizzas to Butter Chicken and Tandoori fusion. Visit us at 1093 Victoria Park Ave!',
   openGraph: {
-    title: 'Fresheat - Food & Restaurant NextJS Template',
-    description: 'Fresheat - Food & Restaurant NextJS Template',
+    title: 'New Italy Pizza – Where Italy Meets Asia',
+    description: 'Craving Pizza, Shawarma, or Butter Chicken? We serve 100% Halal fusion dishes and fresh bakery treats in the heart of Scarborough.',
+    type: 'website',
+  },
+  icons: {
+    icon: '/icon.png',
   },
 };
 
@@ -33,7 +37,6 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <meta name="author" content="Themeservices" />
-        <link rel="icon" href="/favicon.ico" sizes="any" />
       </head>
       <body className={`${epilogue.variable} ${roboto.variable}`}>
         {children}
