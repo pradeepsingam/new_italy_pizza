@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import "slick-carousel/slick/slick.css";
 import "./assets/main.css";
+import SmokeEffect from "./Components/SmokeEffect";
 
 const epilogue = Epilogue({
   subsets: ['latin'],
@@ -39,6 +40,7 @@ export default function RootLayout({ children }) {
         <meta name="author" content="Themeservices" />
       </head>
       <body className={`${epilogue.variable} ${roboto.variable}`}>
+        <SmokeEffect />
         {children}
       </body>
     </html>

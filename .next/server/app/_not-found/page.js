@@ -3,7 +3,7 @@ const runtime = require("../../chunks/ssr/[turbopack]_runtime.js");
 runtime.loadChunk("server/chunks/ssr/node_modules_next_dist_97f32f._.js");
 runtime.loadChunk("server/chunks/ssr/[root of the server]__592060._.js");
 runtime.loadChunk("server/chunks/ssr/src_app_2c7daa._.js");
-runtime.loadChunk("server/chunks/ssr/[root of the server]__1f74d9._.js");
+runtime.loadChunk("server/chunks/ssr/[root of the server]__7c8a4f._.js");
 runtime.loadChunk("server/chunks/ssr/[root of the server]__438a22._.css");
 runtime.loadChunk("server/chunks/ssr/_2cceeb._.js");
 runtime.getOrInstantiateRuntimeModule("[project]/.next-internal/server/app/_not-found/page/actions.js [app-rsc] (ecmascript)", CHUNK_PUBLIC_PATH);

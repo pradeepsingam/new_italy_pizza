@@ -2,6 +2,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import Slider from "react-slick";
+import "./hero-anim.css";
 
 const HeroBanner1 = () => {
 
@@ -87,7 +88,7 @@ const HeroBanner1 = () => {
                                         <div className="col-12 col-xl-6 d-none d-xxl-block">
                                             <div className="banner-thumb-area" data-tilt data-animation="slideInRight"
                                                 data-duration="2s" data-delay=".9s">
-                                                <img src={item.img} alt="shape" />
+                                                <img src={item.img} className="banner-thumb-anim" alt="shape" />
                                             </div>
                                         </div>
                                     </div>
