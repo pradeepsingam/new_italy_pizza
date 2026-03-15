@@ -17,15 +17,16 @@ const Contact3 = () => {
                             <div className="col-md-6 col-xl-3">
                                 <div className="contact-box style1">
                                     <div className="contact-icon"><Image src="/assets/img/icon/gmail.png" alt="img" width={70} height={70} /></div>
-                                    <h3 className="title">info@exmple.com</h3>
-                                    <p>Email us anytime <br></br> for any kind of query.</p>
+                                    <h5 className="title">Mail</h5>
+                                    <p>hello@newitalypizza.com</p>
+                                    <p>Email us anytime .</p>
                                 </div>
                             </div>
                             <div className="col-md-6 col-xl-3">
                                 <div className="contact-box style1">
                                     <div className="contact-icon"><Image src="/assets/img/icon/phone.png" alt="img" width={70} height={70} /></div>
-                                    <h3 className="title">Hot: +1 416-757-3758</h3>
-                                    <p>Need Assistance? <br></br>Speak to Support Now</p>
+                                    <h3 className="title">Call</h3>
+                                    <p>+1 416-757-3758 <br></br>Speak to Support Now</p>
                                 </div>
                             </div>
                             <div className="col-md-6 col-xl-3">

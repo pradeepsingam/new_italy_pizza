@@ -27,7 +27,7 @@ const Footer1 = () => {
                                     <div className="item1"><i className="bi bi-envelope-fill"></i></div>
                                     <div className="item2">
                                         <h6>send email</h6>
-                                        <p>info@exmple.com</p>
+                                        <p>hello@newitalypizza.com</p>
                                     </div>
                                 </div>
                             </div>
