@@ -1,4 +1,7 @@
 import BreadCumb from '@/app/Components/Common/BreadCumb';
+import FoodItem1 from '@/app/Components/FoodItem/FoodItem1';
+import FoodItem2 from '@/app/Components/FoodItem/FoodItem2';
+import FoodItem3 from '@/app/Components/FoodItem/FoodItem3';
 import FoodItem4 from '@/app/Components/FoodItem/FoodItem4';
 import Gallery1 from '@/app/Components/Gallery/Gallery1';
 import Timer2 from '@/app/Components/Timer/Timer2';
@@ -19,9 +22,9 @@ const page = () => {
     <div>
       <BreadCumb
         bgimg="/assets/img/bg/breadcumb.jpg"
-        Title="Food Menu"
+        Title="Our Menu"
       ></BreadCumb>
-      <FoodItem4></FoodItem4>
+      <FoodItem1></FoodItem1>
     </div>
   );
 };

@@ -22,9 +22,7 @@ const page = () => {
             <HeroBanner2></HeroBanner2>
             <Offer2></Offer2>
             <About2></About2>
-            <BestSelling2></BestSelling2>
-            <CtaBanner2></CtaBanner2>
-            <FeatureCategory1></FeatureCategory1>
+
         </div>
     );
 };

@@ -30484,6 +30484,12 @@ input.main-search-input::placeholder {
   margin-top: 30px;
 }
 
+@media (width <= 767px) {
+  .food-menu-tab .nav-pills {
+    justify-content: start;
+  }
+}
+
 .food-menu-tab .nav-pills .nav-link {
   padding: 5px 24px 0 0;
   margin: 10px 0;
@@ -30548,6 +30554,12 @@ input.main-search-input::placeholder {
   border-bottom: 0;
   padding-bottom: 0;
   margin-top: 30px;
+}
+
+@media (width <= 767px) {
+  .food-menu-tab.style2 .nav-pills {
+    justify-content: start;
+  }
 }
 
 .food-menu-tab.style2 .nav-pills .nav-link {
@@ -30646,7 +30658,7 @@ input.main-search-input::placeholder {
 .single-menu-items .details .menu-content h3 {
   color: var(--title);
   font-family: var(--title-font);
-  font-size: 24px;
+  font-size: 18px;
   font-style: normal;
   font-weight: 700;
   line-height: 50px;
@@ -30661,7 +30673,7 @@ input.main-search-input::placeholder {
 
 @media (width <= 1399px) {
   .single-menu-items .details .menu-content h3 {
-    font-size: 21px;
+    font-size: 16px;
     line-height: 30px;
     margin-bottom: 0;
   }
@@ -30670,7 +30682,7 @@ input.main-search-input::placeholder {
 .single-menu-items .details .menu-content a h3 {
   color: var(--title);
   font-family: var(--title-font);
-  font-size: 24px;
+  font-size: 18px;
   font-style: normal;
   font-weight: 700;
   line-height: 50px;
@@ -30680,7 +30692,7 @@ input.main-search-input::placeholder {
 
 @media (width <= 1399px) {
   .single-menu-items .details .menu-content a h3 {
-    font-size: 21px;
+    font-size: 16px;
     line-height: 30px;
     margin-bottom: 0;
   }
@@ -30689,7 +30701,7 @@ input.main-search-input::placeholder {
 .single-menu-items .details .menu-content p {
   color: var(--text);
   font-family: var(--body-font);
-  font-size: 14px;
+  font-size: 11px;
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
@@ -30700,7 +30712,7 @@ input.main-search-input::placeholder {
   color: var(--title);
   text-align: right;
   font-family: var(--title-font);
-  font-size: 18px;
+  font-size: 14px;
   font-style: normal;
   font-weight: 600;
   line-height: 28px;
