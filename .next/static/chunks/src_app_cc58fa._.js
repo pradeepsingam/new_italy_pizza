@@ -374,38 +374,38 @@ const menuData = [
         items: [
             {
                 name: "Chicken Shawarma",
-                price: "$11.00",
+                price: "$7.99",
                 img: "/assets/img/menu/shawarma_chicken.png"
             },
             {
                 name: "Beef Shawarma",
-                price: "$12.00",
+                price: "$8.99",
                 img: "/assets/img/menu/shawarma_beef.png"
             },
             {
-                name: "Mixed Shawarma",
-                price: "$13.00",
-                img: "/assets/img/menu/menuThumb1_8.png"
+                name: "Falafel",
+                price: "$6.99",
+                img: "/assets/img/menu/falafel.png"
             },
             {
-                name: "Chicken Shawarma Plate",
-                price: "$17.00",
-                img: "/assets/img/menu/menuThumb1_9.png"
+                name: "Shawarma Poutine - Chicken",
+                price: "$7.99",
+                img: "/assets/img/menu/shawarma_poutine.png"
             },
             {
-                name: "Beef Shawarma Plate",
-                price: "$18.00",
-                img: "/assets/img/menu/menuThumb1_10.png"
+                name: "Shawarma Poutine - Beef",
+                price: "$8.99",
+                img: "/assets/img/menu/shawarma_poutine.png"
             },
             {
                 name: "Shawarma Bowl - Chicken",
-                price: "$15.00",
-                img: "/assets/img/menu/menuThumb1_1.png"
+                price: "$10.99",
+                img: "/assets/img/menu/shawarmaBowl.png"
             },
             {
                 name: "Shawarma Bowl - Beef",
-                price: "$16.00",
-                img: "/assets/img/menu/menuThumb1_2.png"
+                price: "$11.99",
+                img: "/assets/img/menu/shawarmaBowl.png"
             }
         ]
     },
@@ -418,39 +418,39 @@ const menuData = [
                 name: "Chicken Buriyani",
                 content: "Served with Raita",
                 price: "$17.00",
-                img: "/assets/img/menu/menuThumb1_3.png"
+                img: "/assets/img/menu/briyani.png"
             },
             {
                 name: "Butter Chicken & Naan/Paratha",
                 content: "1 Naan Bread or Paratha with Butter Chicken",
                 price: "$19.00",
-                img: "/assets/img/menu/menuThumb1_4.png"
+                img: "/assets/img/menu/butterChickenNaan.png"
             },
             {
                 name: "Tandoori Chicken & Paratha",
                 content: "1 Paratha with Tandoori Chicken",
                 price: "$20.00",
-                img: "/assets/img/menu/menuThumb1_5.png"
+                img: "/assets/img/menu/tandooriChickenParata.png"
             },
             {
                 name: "Butter Chicken",
                 price: "$18.00",
-                img: "/assets/img/menu/menuThumb1_6.png"
+                img: "/assets/img/menu/butterChickenNaan.png"
             },
             {
                 name: "Chana Masala",
                 price: "$15.00",
-                img: "/assets/img/menu/menuThumb1_7.png"
+                img: "/assets/img/menu/channaMasala.png"
             },
             {
                 name: "Mix vegetables",
                 price: "$15.00",
-                img: "/assets/img/menu/menuThumb1_8.png"
+                img: "/assets/img/menu/mixedVegetables.png"
             },
             {
                 name: "2 Tandoori Chicken(Leg)",
-                price: "$17.00",
-                img: "/assets/img/menu/menuThumb1_9.png"
+                price: "$10.99",
+                img: "/assets/img/menu/tandooriChickenLegs.png"
             }
         ]
     },
@@ -462,52 +462,52 @@ const menuData = [
             {
                 name: "Cola (Regular + Zero)",
                 price: "",
-                img: "/assets/img/menu/menuThumb1_10.png"
+                img: "/assets/img/menu/cocacola.png"
             },
             {
                 name: "Lemon-Lime",
                 price: "",
-                img: "/assets/img/menu/menuThumb1_1.png"
+                img: "/assets/img/menu/lemonLimeSoda.png"
             },
             {
                 name: "Root Beer",
                 price: "",
-                img: "/assets/img/menu/menuThumb1_2.png"
+                img: "/assets/img/menu/rootBeer.png"
             },
             {
                 name: "Iced Tea",
                 price: "",
-                img: "/assets/img/menu/menuThumb1_3.png"
+                img: "/assets/img/menu/iceTea.png"
             },
             {
                 name: "Water",
                 price: "",
-                img: "/assets/img/menu/menuThumb1_4.png"
+                img: "/assets/img/menu/water.png"
             },
             {
                 name: "Lemonade",
                 price: "",
-                img: "/assets/img/menu/menuThumb1_5.png"
+                img: "/assets/img/menu/lemonade.png"
             },
             {
                 name: "Fruit juice",
                 price: "",
-                img: "/assets/img/menu/menuThumb1_6.png"
+                img: "/assets/img/menu/fruitJuice.png"
             },
             {
                 name: "Milk",
                 price: "",
-                img: "/assets/img/menu/menuThumb1_7.png"
+                img: "/assets/img/menu/milk.png"
             },
             {
                 name: "Yoghurt",
                 price: "",
-                img: "/assets/img/menu/menuThumb1_8.png"
+                img: "/assets/img/menu/yogurt.png"
             },
             {
                 name: "Ice cream",
                 price: "",
-                img: "/assets/img/menu/menuThumb1_9.png"
+                img: "/assets/img/menu/icecream.png"
             }
         ]
     }
