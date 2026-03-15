@@ -24,7 +24,7 @@ export const metadata = {
   },
   description: 'Experience a unique blend of flavors at New Italy Pizza. From authentic Halal stone-baked pizzas to Butter Chicken and Tandoori fusion. Visit us at 1093 Victoria Park Ave!',
   openGraph: {
-    title: 'New Italy Pizza – Where Italy Meets Asia',
+    title: 'New Italy Pizza –  Asian Fusion & Bakery in Scarborough',
     description: 'Craving Pizza, Shawarma, or Butter Chicken? We serve 100% Halal fusion dishes and fresh bakery treats in the heart of Scarborough.',
     type: 'website',
   },
