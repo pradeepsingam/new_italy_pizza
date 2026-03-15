@@ -91,7 +91,7 @@ export default function Header2({ variant }) {
                   <a onClick={() => setSearchToggle(!searchToggle)} className="search-trigger search-icon"><i className="bi bi-search"></i></a>
 
                   <div className="main-button">
-                    <Link href="/contact" className="theme-btn" >ORDER NOW <i className="bi bi-arrow-right"></i></Link>
+                    <Link href="https://www.restaurantlogin.com/api/fb/_z9_d_x_y" className="theme-btn" >ORDER NOW <i className="bi bi-arrow-right"></i></Link>
                   </div>
 
                 </div>

@@ -1,7 +1,4 @@
 {
   "/(defaultLayout)/page": "app/(defaultLayout)/page.js",
-  "/(defaultLayout)/contact/page": "app/(defaultLayout)/contact/page.js",
-  "/icon.png/route": "app/icon.png/route.js",
-  "/_not-found/page": "app/_not-found/page.js",
   "/(defaultLayout)/menu/page": "app/(defaultLayout)/menu/page.js"
 }
