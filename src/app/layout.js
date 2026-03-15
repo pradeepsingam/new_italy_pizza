@@ -4,6 +4,8 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 import "slick-carousel/slick/slick.css";
 import "./assets/main.css";
 import SmokeEffect from "./Components/SmokeEffect";
+import { SpeedInsights } from "@vercel/speed-insights/next";
+import { Analytics } from "@vercel/analytics/next";
 
 const epilogue = Epilogue({
   subsets: ['latin'],
@@ -42,6 +44,8 @@ export default function RootLayout({ children }) {
       <body className={`${epilogue.variable} ${roboto.variable}`}>
         <SmokeEffect />
         {children}
+        <SpeedInsights />
+        <Analytics />
       </body>
     </html>
   );
