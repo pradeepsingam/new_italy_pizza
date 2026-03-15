@@ -251,67 +251,67 @@ const menuData = [
                 name: "White Pizza – Foccacia",
                 price: "From $8.00",
                 content: "Small: $8.00, Medium: $10.00, Large: $11.00, XL: $16.00, Party: $21.00",
-                img: "/assets/img/menu/menuThumb1_1.png"
+                img: "/assets/img/menu/pizza_white_foccacia.png"
             },
             {
                 name: "Pepperoni (Beef) – Pizza",
                 price: "From $13.00",
                 content: "Small: $13.00, Medium: $16.00, Large: $19.00, XL: $21.00, Party: $33.00",
-                img: "/assets/img/menu/menuThumb1_2.png"
+                img: "/assets/img/menu/pizza_pepperoni.png"
             },
             {
                 name: "Tomatoes and Cheese Pizza",
                 price: "From $13.00",
                 content: "Small: $13.00, Medium: $15.00, Large: $17.00, XL: $21.00, Party: $29.00",
-                img: "/assets/img/menu/menuThumb1_3.png"
+                img: "/assets/img/menu/pizza_tomato_cheese.png"
             },
             {
                 name: "4 Cheese Pizza",
                 price: "From $15.00",
                 content: "Small: $15.00, Medium: $17.00, Large: $20.00, XL: $23.00, Party: $29.00",
-                img: "/assets/img/menu/menuThumb1_4.png"
+                img: "/assets/img/menu/pizza_four_cheese.png"
             },
             {
                 name: "Grilled Chicken – Pizza",
                 price: "From $21.00",
                 content: "Small: $21.00, Medium: $26.00, Large: $30.00, XL: $35.00, Party: $45.00",
-                img: "/assets/img/menu/menuThumb1_5.png"
+                img: "/assets/img/menu/pizza_grilled_chicken.png"
             },
             {
                 name: "Vegetable – Pizza",
                 price: "From $13.00",
                 content: "Small: $13.00, Medium: $16.00, Large: $19.00, XL: $24.00, Party: $34.00",
-                img: "/assets/img/menu/menuThumb1_6.png"
+                img: "/assets/img/menu/pizza_vegetable.png"
             },
             {
                 name: "Grilled Vegetables – Pizza",
                 price: "From $16.00",
                 content: "Small: $16.00, Medium: $19.00, Large: $21.00, XL: $24.00, Party: $34.00",
-                img: "/assets/img/menu/menuThumb1_7.png"
+                img: "/assets/img/menu/pizza_grilled_vegetables.png"
             },
             {
                 name: "Rapini – Pizza",
                 price: "From $16.00",
                 content: "Small: $16.00, Medium: $21.00, Large: $24.00, XL: $26.00, Party: $38.00",
-                img: "/assets/img/menu/menuThumb1_8.png"
+                img: "/assets/img/menu/pizza_rapini.png"
             },
             {
                 name: "Four Meat – Pizza",
                 price: "From $16.00",
                 content: "Small: $16.00, Medium: $19.00, Large: $21.00, XL: $26.00, Party: $34.00",
-                img: "/assets/img/menu/menuThumb1_9.png"
+                img: "/assets/img/menu/pizza_four_meat.png"
             },
             {
                 name: "Picanthe (allderes) spicy – Pizza",
                 price: "From $15.00",
                 content: "Small: $15.00, Medium: $17.00, Large: $21.00, XL: $24.00, Party: $38.00",
-                img: "/assets/img/menu/menuThumb1_10.png"
+                img: "/assets/img/menu/pizza_picanthe.png"
             },
             {
                 name: "Tandoori Chicken – Pizza",
                 price: "From $13.00",
                 content: "Small: $13.00, Medium: $16.00, Large: $19.00, XL: $24.00, Party: $34.00",
-                img: "/assets/img/menu/menuThumb1_1.png"
+                img: "/assets/img/menu/pizza_tandoori_chicken.png"
             }
         ]
     },
@@ -324,25 +324,25 @@ const menuData = [
                 name: "Chicken Wings",
                 price: "$18.00",
                 content: "12pcs / 1lbs",
-                img: "/assets/img/menu/menuThumb1_2.png"
+                img: "/assets/img/menu/appetizer_chicken_wings.png"
             },
             {
                 name: "French Fries",
                 price: "From $6.00",
                 content: "Small: $6.00, Medium: $7.00, Large: $9.00",
-                img: "/assets/img/menu/menuThumb1_3.png"
+                img: "/assets/img/menu/appetizer_french_fries.png"
             },
             {
                 name: "Potatoes Wedge",
                 price: "From $10.00",
                 content: "Medium: $10.00, Large: $16.00",
-                img: "/assets/img/menu/menuThumb1_4.png"
+                img: "/assets/img/menu/appetizer_potatoes_wedge.png"
             },
             {
                 name: "Onion Rings",
                 price: "From $7.00",
                 content: "Small: $7.00, Medium: $9.00",
-                img: "/assets/img/menu/menuThumb1_5.png"
+                img: "/assets/img/menu/appetizer_onion_rings.png"
             }
         ]
     },
@@ -354,26 +354,26 @@ const menuData = [
             {
                 name: "Chicken Shawarma",
                 price: "$11.00",
-                img: "/assets/img/menu/menuThumb1_6.png"
+                img: "/assets/img/menu/shawarma_chicken.png"
             },
             {
                 name: "Beef Shawarma",
                 price: "$12.00",
-                img: "/assets/img/menu/menuThumb1_7.png"
+                img: "/assets/img/menu/shawarma_beef.png"
             },
             {
-                name: "Falafel",
-                price: "$9.00",
+                name: "Mixed Shawarma",
+                price: "$13.00",
                 img: "/assets/img/menu/menuThumb1_8.png"
             },
             {
-                name: "Shawarma Poutine - Chicken",
-                price: "$11.00",
+                name: "Chicken Shawarma Plate",
+                price: "$17.00",
                 img: "/assets/img/menu/menuThumb1_9.png"
             },
             {
-                name: "Shawarma Poutine - Beef",
-                price: "$12.00",
+                name: "Beef Shawarma Plate",
+                price: "$18.00",
                 img: "/assets/img/menu/menuThumb1_10.png"
             },
             {
