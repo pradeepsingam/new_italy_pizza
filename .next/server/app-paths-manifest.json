@@ -1,4 +1,6 @@
 {
+  "/(defaultLayout)/menu/page": "app/(defaultLayout)/menu/page.js",
   "/(defaultLayout)/page": "app/(defaultLayout)/page.js",
-  "/(defaultLayout)/menu/page": "app/(defaultLayout)/menu/page.js"
+  "/icon.png/route": "app/icon.png/route.js",
+  "/_not-found/page": "app/_not-found/page.js"
 }

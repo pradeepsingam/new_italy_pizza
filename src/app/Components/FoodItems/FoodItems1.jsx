@@ -70,13 +70,15 @@ const FoodItems1 = () => {
                         {foodItems.map((item, i) => (
                             <div key={i} className="swiper-slide">
                                 <div className="single-food-items">
-                                    <div className="item-thumb">
-                                        <img src={item.img} alt="thumb" />
-                                        <div className="circle-shape"><img className="cir36"
-                                                src="/assets/img/food-items/circleShape.png" alt="shape" /></div>
-                                    </div>
+                                    <Link href="https://www.restaurantlogin.com/api/fb/_z9_d_x_y" target="_blank">
+                                        <div className="item-thumb">
+                                            <img src={item.img} alt="thumb" />
+                                            <div className="circle-shape"><img className="cir36"
+                                                    src="/assets/img/food-items/circleShape.png" alt="shape" /></div>
+                                        </div>
+                                    </Link>
                                     <div className="item-content">
-                                        <Link href="/menu">
+                                        <Link href="https://www.restaurantlogin.com/api/fb/_z9_d_x_y" target="_blank">
                                             <h3>{item.title}</h3>
                                         </Link>
                                         <div className="text">{item.content}</div>

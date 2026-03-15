@@ -36,10 +36,12 @@ const BestSelling4 = () => {
                 <div className="dishes-card-wrap style1 best-selling-area">
                 {foodItems.map((item, i) => (
                     <div key={i} className="dishes-card style1 wow fadeInUp" data-wow-delay="0.2s">
-                        <div className="dishes-thumb">
+                        <Link href="https://www.restaurantlogin.com/api/fb/_z9_d_x_y" target="_blank">
+<div className="dishes-thumb">
                         <Image src={item.img} alt="img" width={158} height={158}   />
                         </div>
-                        <Link href="/menu">
+</Link>
+                        <Link href="https://www.restaurantlogin.com/api/fb/_z9_d_x_y" target="_blank">
                             <h3>{item.title}</h3>
                         </Link>
                         <p>{item.content}</p>

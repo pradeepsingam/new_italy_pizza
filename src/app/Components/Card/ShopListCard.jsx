@@ -4,13 +4,15 @@ import Link from "next/link";
 const ShopListCard = ({img,title,content,price}) => {
     return (
         <div className="dishes-card style4 wow fadeInUp" data-wow-delay="0.2s">
-        <div className="dishes-thumb">
-        <Image src={img} alt="img" width={158} height={158}   />
-            <div className="circle-shape"> <Image className="cir36"
-                    src="/assets/img/food-items/circleShape.png" alt="img" width={174} height={174}   /></div>
-        </div>
+        <Link href="https://www.restaurantlogin.com/api/fb/_z9_d_x_y" target="_blank">
+            <div className="dishes-thumb">
+            <Image src={img} alt="img" width={158} height={158}   />
+                <div className="circle-shape"> <Image className="cir36"
+                        src="/assets/img/food-items/circleShape.png" alt="img" width={174} height={174}   /></div>
+            </div>
+        </Link>
         <div className="dishes-content">
-            <Link href="/shop/shop-details">
+            <Link href="https://www.restaurantlogin.com/api/fb/_z9_d_x_y" target="_blank">
                 <h3>{title}</h3>
             </Link>
             <div className="icon">

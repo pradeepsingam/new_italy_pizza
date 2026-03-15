@@ -11,17 +11,21 @@ const ShopDetails = () => {
                         <div className="row gx-60">
                             <div className="col-lg-6">
                                 <div className="product-big-img bg-color2">
-                                    <div className="dishes-thumb">
-                                    <Image src="/assets/img/dishes/dishes3_1.png" alt="img" width={304} height={302}   />
-                                        <div className="circle-shape d-none d-md-block"> <Image className="cir36"
-                                                src="/assets/img/food-items/circleShape2.png" alt="img" width={324} height={324}   /></div>
-                                    </div>
+                                    <Link href="https://www.restaurantlogin.com/api/fb/_z9_d_x_y" target="_blank">
+                                        <div className="dishes-thumb">
+                                        <Image src="/assets/img/dishes/dishes3_1.png" alt="img" width={304} height={302}   />
+                                            <div className="circle-shape d-none d-md-block"> <Image className="cir36"
+                                                    src="/assets/img/food-items/circleShape2.png" alt="img" width={324} height={324}   /></div>
+                                        </div>
+                                    </Link>
                                 </div>
                             </div>
                             <div className="col-lg-6">
                                 <div className="product-about">
                                     <div className="title-wrapper">
-                                        <h2 className="product-title">Chicken Pizza</h2>
+                                        <Link href="https://www.restaurantlogin.com/api/fb/_z9_d_x_y" target="_blank">
+                                            <h2 className="product-title">Chicken Pizza</h2>
+                                        </Link>
                                         <div className="price">$69</div>
                                     </div>
 

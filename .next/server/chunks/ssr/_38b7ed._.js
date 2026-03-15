@@ -264,37 +264,45 @@ const BestSelling2 = ()=>{
                                             className: "dishes-card style2 wow fadeInUp",
                                             "data-wow-delay": "0.2s",
                                             children: [
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "dishes-thumb",
-                                                    children: [
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                            src: item.img,
-                                                            alt: "thumb"
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/src/app/Components/BestSelling/BestSelling2.jsx",
-                                                            lineNumber: 35,
-                                                            columnNumber: 37
-                                                        }, this),
-                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                            className: "circle-shape",
-                                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                                className: "cir36",
-                                                                src: "/assets/img/food-items/circleShape.png",
-                                                                alt: "img",
-                                                                width: 158,
-                                                                height: 158
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                                    href: "https://www.restaurantlogin.com/api/fb/_z9_d_x_y",
+                                                    target: "_blank",
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "dishes-thumb",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                                                src: item.img,
+                                                                alt: "thumb"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/BestSelling/BestSelling2.jsx",
                                                                 lineNumber: 36,
-                                                                columnNumber: 67
+                                                                columnNumber: 41
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "circle-shape",
+                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                                                    className: "cir36",
+                                                                    src: "/assets/img/food-items/circleShape.png",
+                                                                    alt: "img",
+                                                                    width: 158,
+                                                                    height: 158
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/src/app/Components/BestSelling/BestSelling2.jsx",
+                                                                    lineNumber: 37,
+                                                                    columnNumber: 71
+                                                                }, this)
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/src/app/Components/BestSelling/BestSelling2.jsx",
+                                                                lineNumber: 37,
+                                                                columnNumber: 41
                                                             }, this)
-                                                        }, void 0, false, {
-                                                            fileName: "[project]/src/app/Components/BestSelling/BestSelling2.jsx",
-                                                            lineNumber: 36,
-                                                            columnNumber: 37
-                                                        }, this)
-                                                    ]
-                                                }, void 0, true, {
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/src/app/Components/BestSelling/BestSelling2.jsx",
+                                                        lineNumber: 35,
+                                                        columnNumber: 37
+                                                    }, this)
+                                                }, void 0, false, {
                                                     fileName: "[project]/src/app/Components/BestSelling/BestSelling2.jsx",
                                                     lineNumber: 34,
                                                     columnNumber: 33
@@ -303,17 +311,18 @@ const BestSelling2 = ()=>{
                                                     className: "dishes-content",
                                                     children: [
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                            href: "/menu",
+                                                            href: "https://www.restaurantlogin.com/api/fb/_z9_d_x_y",
+                                                            target: "_blank",
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                                 children: item.title
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/BestSelling/BestSelling2.jsx",
-                                                                lineNumber: 41,
+                                                                lineNumber: 43,
                                                                 columnNumber: 41
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/BestSelling/BestSelling2.jsx",
-                                                            lineNumber: 40,
+                                                            lineNumber: 42,
                                                             columnNumber: 37
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -325,12 +334,12 @@ const BestSelling2 = ()=>{
                                                                 height: 16
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/Components/BestSelling/BestSelling2.jsx",
-                                                                lineNumber: 43,
+                                                                lineNumber: 45,
                                                                 columnNumber: 59
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/BestSelling/BestSelling2.jsx",
-                                                            lineNumber: 43,
+                                                            lineNumber: 45,
                                                             columnNumber: 37
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -338,14 +347,14 @@ const BestSelling2 = ()=>{
                                                             children: item.content
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/BestSelling/BestSelling2.jsx",
-                                                            lineNumber: 44,
+                                                            lineNumber: 46,
                                                             columnNumber: 37
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h6", {
                                                             children: item.price
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/Components/BestSelling/BestSelling2.jsx",
-                                                            lineNumber: 45,
+                                                            lineNumber: 47,
                                                             columnNumber: 37
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
@@ -357,19 +366,19 @@ const BestSelling2 = ()=>{
                                                                     className: "bi bi-basket2"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/Components/BestSelling/BestSelling2.jsx",
-                                                                    lineNumber: 46,
+                                                                    lineNumber: 48,
                                                                     columnNumber: 96
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/app/Components/BestSelling/BestSelling2.jsx",
-                                                            lineNumber: 46,
+                                                            lineNumber: 48,
                                                             columnNumber: 37
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/Components/BestSelling/BestSelling2.jsx",
-                                                    lineNumber: 39,
+                                                    lineNumber: 41,
                                                     columnNumber: 33
                                                 }, this)
                                             ]
@@ -394,18 +403,18 @@ const BestSelling2 = ()=>{
                                                 className: "bi bi-arrow-right"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/Components/BestSelling/BestSelling2.jsx",
-                                                lineNumber: 52,
+                                                lineNumber: 54,
                                                 columnNumber: 85
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/Components/BestSelling/BestSelling2.jsx",
-                                        lineNumber: 52,
+                                        lineNumber: 54,
                                         columnNumber: 29
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/Components/BestSelling/BestSelling2.jsx",
-                                    lineNumber: 51,
+                                    lineNumber: 53,
                                     columnNumber: 25
                                 }, this)
                             ]

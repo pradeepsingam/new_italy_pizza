@@ -31,13 +31,15 @@ const BestSelling2 = () => {
                         <div className="dishes-card-wrap style1 mb-60">
                         {foodItems.map((item, i) => (
                             <div key={i} className="dishes-card style2 wow fadeInUp" data-wow-delay="0.2s">
-                                <div className="dishes-thumb">
-                                    <img src={item.img} alt="thumb" />
-                                    <div className="circle-shape"><Image className="cir36"
-                                            src="/assets/img/food-items/circleShape.png" alt="img" width={158} height={158}   /></div>
-                                </div>
+                                <Link href="https://www.restaurantlogin.com/api/fb/_z9_d_x_y" target="_blank">
+                                    <div className="dishes-thumb">
+                                        <img src={item.img} alt="thumb" />
+                                        <div className="circle-shape"><Image className="cir36"
+                                                src="/assets/img/food-items/circleShape.png" alt="img" width={158} height={158}   /></div>
+                                    </div>
+                                </Link>
                                 <div className="dishes-content">
-                                    <Link href="/menu">
+                                    <Link href="https://www.restaurantlogin.com/api/fb/_z9_d_x_y" target="_blank">
                                         <h3>{item.title}</h3>
                                     </Link>
                                     <div className="star"><Image src="/assets/img/icon/star2.svg" alt="img" width={86} height={16}   /></div>

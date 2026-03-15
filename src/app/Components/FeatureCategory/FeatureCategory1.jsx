@@ -68,16 +68,16 @@ const FeatureCategory1 = () => {
                         {foodItems.map((item, i) => (
                             <div key={i} className="swiper-slide">
                                 <div className="dishes-card style3">
-                                    <div className="dishes-thumb">
-                                    <img src={item.img} alt="thumb" />
-                                        <div className="view-more">
-                                            <Link href="/menu">
+                                    <Link href="https://www.restaurantlogin.com/api/fb/_z9_d_x_y" target="_blank">
+                                        <div className="dishes-thumb">
+                                        <img src={item.img} alt="thumb" />
+                                            <div className="view-more">
                                                 <h3> VIEW MORE </h3>
-                                            </Link>
+                                            </div>
                                         </div>
-                                    </div>
+                                    </Link>
                                     <div className="dishes-content">
-                                        <Link href="/menu">
+                                        <Link href="https://www.restaurantlogin.com/api/fb/_z9_d_x_y" target="_blank">
                                             <h3>{item.title}</h3>
                                         </Link>
                                         <p>{item.content}</p>
