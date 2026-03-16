@@ -41,7 +41,7 @@ export default function Header2({ variant }) {
             <div className="cs_top_header_in">
               <div className="cs_top_header_left header-info">
                 <ul className="cs_top_nav d-flex flex-wrap align-items-center cs_fs_12 text-white m-0 p-0">
-                  <li><i className="bi bi-geo-alt-fill"></i>093 Victoria Park Ave, Scarborough, ON M4B 2K2, Canada</li>
+                  <li><i className="bi bi-geo-alt-fill"></i>1093 Victoria Park Ave, Scarborough, ON M4B 2K2, Canada</li>
                   <li><i className="bi bi-alarm"></i> Every day: 11.00 am - 11.00 pm</li>
                 </ul>
               </div>
