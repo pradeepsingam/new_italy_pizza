@@ -11,7 +11,7 @@ const Contact3 = () => {
                                 <div className="contact-box style1">
                                     <div className="contact-icon"> <Image src="/assets/img/icon/location.png" alt="img" width={70} height={70} /></div>
                                     <h3 className="title">Our Address</h3>
-                                    <p>093 Victoria Park Ave, Scarborough, ON M4B 2K2, Canada</p>
+                                    <p>1093 Victoria Park Ave, Scarborough, ON M4B 2K2, Canada</p>
                                 </div>
                             </div>
                             <div className="col-md-6 col-xl-3">
